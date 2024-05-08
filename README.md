@@ -23,8 +23,8 @@ Thus the program is executed in google colab.
 
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By:kabilan T
+Register Number:212222230059
 i)Image Translation
 import cv2
 import numpy as np
